@@ -1,0 +1,2 @@
+Cultureland Code Generator
+Copyleft 2019
