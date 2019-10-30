@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\cultureland\cultureland\bin\Debug\cultureland.exe.config
+C:\Users\Administrator\source\repos\cultureland\cultureland\bin\Debug\cultureland.exe
+C:\Users\Administrator\source\repos\cultureland\cultureland\bin\Debug\cultureland.pdb
+C:\Users\Administrator\source\repos\cultureland\cultureland\bin\Debug\cultureland.xml
+C:\Users\Administrator\source\repos\cultureland\cultureland\obj\Debug\cultureland.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\cultureland\cultureland\obj\Debug\cultureland.Form1.resources
+C:\Users\Administrator\source\repos\cultureland\cultureland\obj\Debug\cultureland.Resources.resources
+C:\Users\Administrator\source\repos\cultureland\cultureland\obj\Debug\cultureland.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\cultureland\cultureland\obj\Debug\cultureland.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\cultureland\cultureland\obj\Debug\cultureland.exe
+C:\Users\Administrator\source\repos\cultureland\cultureland\obj\Debug\cultureland.xml
+C:\Users\Administrator\source\repos\cultureland\cultureland\obj\Debug\cultureland.pdb
